@@ -1,0 +1,6 @@
+{
+  "name": "CareerCompass AI",
+  "description": "Intelligent Career Discovery and Skill-Gap Analysis Platform for students exploring technical and non-technical career paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
